@@ -18,14 +18,13 @@ This project focuses on predicting liver disease using machine learning techniqu
 ---
 
 ## 📊 Dataset
-
-* Source: Kaggle (Liver Patient Dataset)
-* Total Records: ~30,000
-* Features: 11 (Age, Gender, Bilirubin, Enzymes, Proteins, etc.)
-* Target:
-
-  * `1` → Liver Disease
-  * `0` → No Liver Disease
+- Source: Kaggle (Liver Patient Dataset)  
+- Link: https://www.kaggle.com/datasets/abhi8923shriv/liver-disease-patient-dataset/data
+- Total Records: ~30,000  
+- Features: 11 (Age, Gender, Bilirubin, Enzymes, Proteins, etc.)  
+- Target:
+  - `1` → Liver Disease  
+  - `0` → No Liver Disease  
 
 ---
 
